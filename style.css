@@ -1,0 +1,23 @@
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+footer{
+    background-color: #999;
+    color: black;
+    text-align: center;
+}
+
+div{
+    background-color: rgb(196, 132, 182);
+    color: rgb(73, 73, 161);
+}
+li {
+    list-style-type: none;
+    display:inline;
+    border: solid 1px rgb(221, 195, 201);
+    padding: 2px;
+    margin: 20px;
+}
